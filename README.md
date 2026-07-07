@@ -195,11 +195,29 @@ src
 
 # 📷 專案畫面
 
-後續將補上各功能畫面，例如：
+# 📷 專案畫面
 
-* 登入畫面
-* 英雄選擇
-* 主畫面
+## 🔐 登入畫面
+
+<p align="center">
+  <img src="pic/login.png" alt="登入畫面" width="500">
+</p>
+
+---
+
+## 👤 角色選擇畫面
+
+<p align="center">
+  <img src="pic/character-select.png" alt="角色選擇畫面" width="700">
+</p>
+
+---
+
+## ⚔️ 遊戲主畫面
+
+<p align="center">
+  <img src="pic/main-game.png" alt="遊戲主畫面" width="800">
+</p>
 
 ---
 
