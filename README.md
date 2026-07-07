@@ -195,9 +195,9 @@ src
 
 # 📷 專案畫面
 
-# 📷 專案畫面
-
 ## 🔐 登入畫面
+
+利用此畫面來登入帳號
 
 <p align="center">
   <img src="pic/login.png" alt="登入畫面" width="500">
@@ -207,6 +207,8 @@ src
 
 ## 👤 角色選擇畫面
 
+登入帳號後從這裡選擇或創建角色
+
 <p align="center">
   <img src="pic/character-select.png" alt="角色選擇畫面" width="700">
 </p>
@@ -214,6 +216,8 @@ src
 ---
 
 ## ⚔️ 遊戲主畫面
+
+在遊戲主畫面可以進行戰鬥(掛機)、查看背包內容、升級配點等等遊戲內部操作。
 
 <p align="center">
   <img src="pic/main-game.png" alt="遊戲主畫面" width="800">
